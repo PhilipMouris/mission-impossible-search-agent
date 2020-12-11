@@ -10,7 +10,7 @@ import java.util.Queue;
 public abstract class SearchProblem {
 	protected Operator[] operators;
 	protected State initialState;
-	// comparator to be used for UCS
+	// comparator to be used for uniform cost search
 	protected NodeComparator orderedInsertNodeComparator;
 	// comparator to be used for Greedy 1
 	protected NodeComparator manhattanHeuristicNodeComparator;
