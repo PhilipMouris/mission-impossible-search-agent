@@ -1,4 +1,3 @@
-# This is the starter code for Project 1
+# mission-impossible-search-agent
 
-### You should NOT alter the structure of any packages
-### You should NOT alter any tests
+A Java search agent that saves members in a maze with an efficient plan using various AI search algorithms such as BFS, DFS, UCS, A*.
